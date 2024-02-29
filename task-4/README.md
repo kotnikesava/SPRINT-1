@@ -1,0 +1,1 @@
+Deploy Kubernetes on AWS Manually [DO not use Eksctl]
